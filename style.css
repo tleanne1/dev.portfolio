@@ -414,3 +414,14 @@ span {
 .skills-column:nth-child(2) .skills-content .progress:nth-child(5) .bar span {
   width: 20%;
 }
+
+.skills-sci {
+  font-size: 60px;
+  text-align: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.skills-sci a {
+  color: var(--text-color);
+}
