@@ -705,10 +705,6 @@ span {
     padding: 0 4%;
   }
 
-  .project h2 {
-    margin-bottom: 3rem;
-  }
-
   .project-container {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -836,7 +832,7 @@ span {
     }
   }
 
-  @media (max-width: 373px) {
+  @media (max-width: 393px) {
     .home {
       justify-content: center;
     }
@@ -850,6 +846,14 @@ span {
 
     .home-content h1 {
       font-size: 5rem;
+    }
+
+    .project-layer h4 {
+      font-size: 1.5rem;
+    }
+
+    .project-layer p {
+      font-size: 1rem;
     }
   }
 }
