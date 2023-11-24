@@ -849,11 +849,11 @@ span {
     }
 
     .project-layer h4 {
-      font-size: 1.5rem;
+      font-size: 1rem;
     }
 
     .project-layer p {
-      font-size: 1rem;
+      font-size: 0.8rem;
     }
   }
 }
