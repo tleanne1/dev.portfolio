@@ -353,6 +353,11 @@ span {
   background: var(--bg-color);
 }
 
+.skills p {
+  font-size: 1.6rem;
+  margin: 2rem 0 3rem;
+}
+
 .skills .skills-row {
   display: flex;
   flex-wrap: wrap;
@@ -468,6 +473,11 @@ span {
   background: var(--second-bg-color);
 }
 
+.project p {
+  font-size: 1.6rem;
+  margin: 2rem 0 3rem;
+}
+
 .project-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -539,6 +549,11 @@ span {
 .contact {
   min-height: auto;
   padding-bottom: 7rem;
+}
+
+.contact p {
+  font-size: 1.6rem;
+  margin: 2rem 0 3rem;
 }
 
 .contact form {
