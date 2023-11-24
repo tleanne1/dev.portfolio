@@ -849,20 +849,20 @@ span {
     }
 
     .project-layer h4 {
-      font-size: 1rem;
+      font-size: 1.5rem;
     }
 
     .project-layer p {
-      font-size: 0.8rem;
+      display: none;
     }
 
     .project-layer a {
-      width: 2rem;
-      height: 2rem;
+      width: 1.6rem;
+      height: 1.6rem;
     }
 
     .project-layer a i {
-      font-size: 1rem;
+      font-size: 0.8rem;
       color: var(--second-bg-color);
     }
   }
